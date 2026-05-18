@@ -144,12 +144,15 @@ streamlit run app.py
 ## 📸 Demo
 
 ## 🔹 Main Dashboard
-![Main Dashboard](images/dashboard.png)
+
+![Main Dashboard](images/Dashboard.png)
 
 ## 🔹 Face Segmentation Output
+
 ![Segmentation Output](images/segmentation.png)
 
 ## 🔹 Celebrity Recognition Result
+
 ![Celebrity Recognition](images/celebrity_recognition.png)
 
 
