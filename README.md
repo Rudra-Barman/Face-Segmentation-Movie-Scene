@@ -143,13 +143,15 @@ streamlit run app.py
 
 ## 📸 Demo
 
-👉 Add screenshots here (recommended)
+## 🔹 Main Dashboard
+![Main Dashboard](images/dashboard.png)
 
-Example:
+## 🔹 Face Segmentation Output
+![Segmentation Output](images/segmentation.png)
 
-* Input image
-* Ground truth mask
-* Predicted mask
+## 🔹 Celebrity Recognition Result
+![Celebrity Recognition](images/celebrity_recognition.png)
+
 
 ---
 
